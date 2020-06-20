@@ -1,0 +1,1 @@
+assert.equal(hello, 'Hello World!');
