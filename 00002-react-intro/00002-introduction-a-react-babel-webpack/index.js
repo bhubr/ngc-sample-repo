@@ -4,6 +4,6 @@ import ReactDOM from 'react-dom';
 // Your code here
 
 ReactDOM.render(
-  element,
+  <HelloWebpack />,
   document.getElementById('root')
 );
